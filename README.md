@@ -60,3 +60,17 @@ value: The value to match in the column.
 curl -H "api_key: abcd" -X GET "http://127.0.0.1:5000/query/0?column=ColumnName&value=Value"
 `
 
+### Example Run
+
+Using the popular iris dataset
+
+1. Loading the dataset
+![image](https://github.com/user-attachments/assets/7f4b0b1b-e792-4a07-b332-177045832213)
+
+2. Summanry
+![image](https://github.com/user-attachments/assets/21e079c5-d534-4700-8db1-dcbf8a007b1d)
+
+3. Querying
+![image](https://github.com/user-attachments/assets/04f8feeb-2320-4a31-8483-ef818efb8230)
+
+
